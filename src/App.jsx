@@ -15,8 +15,8 @@ function App() {
   const messages = [
     "Hello! You know what today is?",
     "It's a special day!",
-    "Just kidding, it's your Dr.birthday!",
-    "Happy 18th Birthday Janvi! 🎉",
+    "Just kidding, it's your birthday!",
+    "Happy 18th Birthday Dr.Janvi! 🎉",
     "So, finally, you are getting your own UPI access, huh?",
   ];
 
