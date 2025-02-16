@@ -16,7 +16,7 @@ function App() {
     "Hello! You know what today is?",
     "It's a special day!",
     "Just kidding, it's your Birthday!",
-    "Happy 18th Birthday Janvi! 🎉",
+    "Happy 18th Birthday Dr.Janvi! 🎉",
     "So, finally, you are getting your own UPI access, huh?",
   ];
 
