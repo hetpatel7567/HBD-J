@@ -37,7 +37,7 @@ function App() {
     } else {
       navigate('/final');
     }
-    if (messages[messageIndex] === "Just kidding, it's your birthday!") {
+    if (messages[messageIndex] === "Just kidding, it's your Birthday!") {
       setShowConfetti(true);
       setTimeout(() => setShowConfetti(false), 10000); // Extend confetti runtime to 10 seconds
     }
