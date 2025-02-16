@@ -392,7 +392,7 @@ body {
 .cssbuttons-io-button {
   background: #a370f0;
   color: white;
-  font-family: inherit;
+  font-family: "Inter", sans-serif;
   padding: 0.35em;
   padding-left: 1.2em;
   font-size: 17px;
@@ -408,6 +408,7 @@ body {
   height: 2.8em;
   padding-right: 3.3em;
   cursor: pointer;
+  font-weight: 800;
 }
 
 .cssbuttons-io-button .icon {

@@ -78,7 +78,7 @@ function App() {
           <h1 className="fade-in">{messages[messageIndex]}</h1>
         )}
         <button className="cssbuttons-io-button" onClick={handleNextMessage}>
-          Next
+          What????
           <div className="icon">
             <svg
               height="24"
