@@ -41,7 +41,7 @@ function App() {
       setShowConfetti(true);
       setTimeout(() => setShowConfetti(false), 10000); // Extend confetti runtime to 10 seconds
     }
-    if (messages[messageIndex] === "Happy 18th Birthday Janvi! 🎉") {
+    if (messages[messageIndex] === "Happy 18th Birthday Dr.Janvi! 🎉") {
       setShowParticles(true);
     }
   };
@@ -63,7 +63,7 @@ function App() {
       )}
       <div className="background-blur"></div>
       <header className="App-header">
-        {messages[messageIndex] === "Happy 18th Birthday Janvi! 🎉" ? (
+        {messages[messageIndex] === "Happy 18th Birthday Dr.Janvi! 🎉" ? (
           <div className="content">
             <h1 className="title">{messages[messageIndex]}
               <div className="aurora">
